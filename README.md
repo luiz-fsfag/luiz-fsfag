@@ -6,9 +6,10 @@ Entusiasmado estudante de Desenvolvimento Fullstack no curso Proprofissão do In
 
 Minha base é construída na curiosidade e na vontade de transformar conhecimento em prática. Busco minha primeira oportunidade para aplicar e expandir minhas habilidades em um ambiente profissional desafiador.
 
-### 🛠 Tecnologias e Ferramentas
+
 <div align="center">
-  
+
+### 🛠 Tecnologias e Ferramentas
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | HTML, CSS, JavaScript, Python |
@@ -17,7 +18,7 @@ Minha base é construída na curiosidade e na vontade de transformar conheciment
 | **Ferramentas** | Git |
 
 </div>
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-fsfag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fsfag&layout=compact&langs_count=7&theme=dracula"/>
 </p>
