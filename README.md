@@ -19,3 +19,9 @@ Minha base é construída na curiosidade e na vontade de transformar conheciment
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-fsfag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fsfag&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+
+### 📫 Como me encontrar
+
+* 💼 LinkedIn: [linkedin.com/in/luiz-fsfagundes](www.linkedin.com/in/luiz-fsfagundes)
+* 📧 E-mail: [fellipeluiz2027@gmail.com](mailto:fellipeluiz2027@gmail.com)
+* 🌐 GitHub: [seusite.com](https://github.com/luiz-fsfag)
