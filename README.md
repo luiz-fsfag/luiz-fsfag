@@ -8,12 +8,14 @@ Minha base é construída na curiosidade e na vontade de transformar conheciment
 
 ### 🛠 Tecnologias e Ferramentas
 <div align="center">
+  
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | HTML, CSS, JavaScript, Python |
 | **Frontend** | React.js |
 | **Backend** | Python, FlaskAPI, Pandas, MySQL, SQL |
 | **Ferramentas** | Git |
+
 </div>
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-fsfag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
