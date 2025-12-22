@@ -6,3 +6,11 @@ Entusiasmado estudante de Desenvolvimento Fullstack no curso Proprofissão do In
 
 Minha base é construída na curiosidade e na vontade de transformar conhecimento em prática. Busco minha primeira oportunidade para aplicar e expandir minhas habilidades em um ambiente profissional desafiador.
 
+### 🛠 Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | HTML, CSS, JavaScript, Python |
+| **Frontend** | React.js |
+| **Backend** | Python, FlaskAPI, Pandas, MySQL, SQL |
+| **Ferramentas** | Git |
